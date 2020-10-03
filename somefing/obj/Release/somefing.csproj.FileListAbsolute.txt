@@ -1,0 +1,10 @@
+C:\Users\Administrator\source\repos\somefing\somefing\bin\Release\somefing.exe.config
+C:\Users\Administrator\source\repos\somefing\somefing\bin\Release\somefing.exe
+C:\Users\Administrator\source\repos\somefing\somefing\bin\Release\somefing.pdb
+C:\Users\Administrator\source\repos\somefing\somefing\obj\Release\somefing.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\somefing\somefing\obj\Release\somefing.Form1.resources
+C:\Users\Administrator\source\repos\somefing\somefing\obj\Release\somefing.Properties.Resources.resources
+C:\Users\Administrator\source\repos\somefing\somefing\obj\Release\somefing.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\somefing\somefing\obj\Release\somefing.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\somefing\somefing\obj\Release\somefing.exe
+C:\Users\Administrator\source\repos\somefing\somefing\obj\Release\somefing.pdb
